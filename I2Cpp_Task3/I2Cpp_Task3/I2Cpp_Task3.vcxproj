@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="ExpBranch_01.cpp" />
     <ClCompile Include="I2Cpp_Task3.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ExpBranch_01.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
